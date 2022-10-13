@@ -9,4 +9,4 @@ I'm Hassan from Egypt, and I am a Front-End Web Developer. I have been committed
 * ⚛️ React 
 * 💻 HTML, CSS, JS
 
-[<img style={{background: 'white'}} src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HassanLasheenn)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HassanLasheenn)  
