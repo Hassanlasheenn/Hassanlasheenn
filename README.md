@@ -6,7 +6,4 @@ I'm Hassan from Egypt, and I am a Front-End Web Developer. I have been committed
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on My own 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HassanLasheenn)  
