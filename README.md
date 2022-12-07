@@ -7,10 +7,6 @@ Front-End Developer 💻
 [![MIT License](https://img.shields.io/github/followers/HassanLasheenn?style=social)](https://img.shields.io/github/followers/HassanLasheenn?style=social)
 
 
-![unnamed](https://user-images.githubusercontent.com/106620966/196836754-03a857a4-0eaa-43db-b075-9884014ead51.jpeg)
-
-
-
 💬 Connect with me:
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='30' style='border-radius:30px'>](https://www.linkedin.com/in/hassan-lasheen-25aa961a2/)
