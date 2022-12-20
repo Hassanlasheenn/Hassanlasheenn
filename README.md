@@ -13,7 +13,7 @@ Front-End Developer 💻
 
 ___
 
-## Skills
+## Skills📚📝
 
 <p float="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" />
