@@ -25,10 +25,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="60" />
 </p>
 
