@@ -31,8 +31,4 @@ ___
 
 ___
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hassanlasheenn&show_icons=true&theme=tokyonight)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanlasheenn&theme=tokyonight)
-
   
