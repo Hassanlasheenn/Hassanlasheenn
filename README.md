@@ -9,7 +9,8 @@ Front-End Developer 💻
 
 💬 Connect with me:
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='30' style='border-radius:30px'>](https://www.linkedin.com/in/hassan-lasheen-25aa961a2/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' width='50' />](https://www.linkedin.com/in/hassan-lasheen-25aa961a2/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg' alt='google' width='50' />](hlasheen21@gmail.com)
 
 ___
 
