@@ -1,4 +1,4 @@
-### Hi 👋, I am Hassan Lasheen
+### Hi 👋, I am Hassan Lasheen 👨‍💻
 ___
 <p align="center">
 Front-End Developer 💻
