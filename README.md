@@ -34,10 +34,11 @@ ___
 ___
 
 ## Contribution Tools 
-
+<p float="left"
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="60" />
+</p>
 
 ![Hassan GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanlasheenn&show_icons=true)
   
