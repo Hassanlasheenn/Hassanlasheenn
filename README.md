@@ -28,6 +28,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="60" />
 </p>
 
 ___
