@@ -23,7 +23,6 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
