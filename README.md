@@ -20,6 +20,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="60" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width"60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60" />
