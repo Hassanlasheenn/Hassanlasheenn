@@ -18,6 +18,7 @@ ___
 
 <p float="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="60" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60" />
@@ -28,7 +29,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="60" />
+  
 </p>
 
 ___
