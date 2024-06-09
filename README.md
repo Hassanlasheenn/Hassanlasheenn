@@ -30,6 +30,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60" />
   
 </p>
 
