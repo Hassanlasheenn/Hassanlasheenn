@@ -10,7 +10,9 @@ Software Developer 💻
 💬 Connect with me:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' width='50' />](https://www.linkedin.com/in/hassan-lasheen-25aa961a2/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg' alt='google' width='50' />](hlasheen21@gmail.com)
+<a href="mailto:hlasheen21@gmail.com">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="50" />
+</a>
 
 ___
 
