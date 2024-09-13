@@ -1,7 +1,7 @@
 ### Hi 👋, I am Hassan Lasheen 👨‍💻
 ___
 <p align="center">
-Front-End Developer 💻
+Software Developer 💻
 </p>
 
 [![MIT License](https://img.shields.io/github/followers/HassanLasheenn?style=social)](https://img.shields.io/github/followers/HassanLasheenn?style=social)
