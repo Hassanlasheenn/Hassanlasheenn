@@ -30,8 +30,6 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" />
