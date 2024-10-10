@@ -43,7 +43,6 @@ ___
 <p float="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="60" />
 </p>
 
