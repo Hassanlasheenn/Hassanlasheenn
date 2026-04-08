@@ -45,8 +45,4 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="60" />
 </p>
-
-___
-
-![Hassan GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanlasheenn&show_icons=true)
   
