@@ -34,6 +34,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="60" />
   
 </p>
 
